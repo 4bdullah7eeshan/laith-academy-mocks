@@ -1,7 +1,6 @@
 {
   "name": "laith-academy-mocks",
   "version": "1.0.0",
-  "type": "module",
   "description": "Code along of Laith Academy's Mocks in testing",
   "main": "index.js",
   "scripts": {
